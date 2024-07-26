@@ -1,0 +1,344 @@
+# Profile section
+profile:
+  first_name: Rohan
+  last_name: Dayaram
+  # picture: https://cdn.glitch.com/88028f3b-2a37-4207-9b84-e56ad97a9d3d%2Frodo_2021.png?v=1622471953248   # Hosted picture
+  picture: static/img/rohan_dayaram2.jpg  # Local picture
+  contact:
+    address_one: Johannesburg, Gauteng
+    address_two:
+    # phone: (477) ASK-4-IT!
+  email: rohanday4@gmail.com
+  resume: static/documents/resume.pdf
+  description: |
+    I am a software developer and cybersecurity analyst with a passion for building applications and tools that help people. I have experience in web development, cybersecurity, and machine learning.
+
+    I was a core team member of the Google Developer Student Clubs program (2022 - 2023), where I was the ML lead. I helped students learn about Google technologies and build projects.
+
+    I love participating in CTFs and hackathons, and I am always looking for new challenges to solve.
+
+    I am (currently) working independently as a software developer and cybersecurity analyst, building tools and applications that help people and organizations.
+
+
+# Social section
+social:
+  website:
+    link: https://website.rohandayaram.co.za/
+  github:
+    link: https://github.com/rohanday3/
+  # twitter: https://twitter.com/rodo_ferro/
+  linkedin:
+    link: https://linkedin.com/in/rohan-dayaram-704131236/
+  dev:
+    link: https://dev.to/rohanday3
+  tryhackme:
+    link: https://tryhackme.com/p/rohanday4
+    image: static/img/tryhackme.png
+  hackthebox:
+    link: https://app.hackthebox.com/users/162463
+    image: static/img/hackthebox.png
+  stackoverflow:
+    link: https://stackoverflow.com/users/13619138/rohan-dayaram
+    image: static/img/stackoverflow.png
+  codewars:
+    link: https://www.codewars.com/users/rohanday4
+    image: static/img/codewars.png
+  # medium: https://medium.com/@FerroRodolfo
+
+
+# Experience section
+experience:
+  # item7:
+  #   position: ML Engineer
+  #   company: Zetalabs S.L.
+  #   from: March 2021
+  #   to: Present
+  #   description: >
+  #     Leading the AI development team. Contributing with computer vision tasks for company's product.
+  #   link: http://codeandomexico.org/
+  item4:
+    position: Software Developer
+    company: Freelancer
+    from: February 2019
+    to: Present
+    description: >
+      I work as a freelancer, building web applications and tools for clients. I have experience in web development, cybersecurity, and machine learning.
+  item3:
+    position: CTF Team Member
+    company: AFRICC
+    from: February 2023
+    to: Present
+    description: >
+      I am a member of the African Region to International Cyber Security Competition (AFRICC), a team of cybersecurity enthusiasts from Africa who compete in international cybersecurity competitions.
+    link: https://africc.org/
+  item2:
+    position: Founder and Leader
+    company: DUT Student Developer Society
+    from: March 2023
+    to: Present
+    description: >
+      I founded the DUT Student Developer Society, a community of over 200 tech enthusiasts and developers. We organize workshops, hackathons, and tech talks.
+  item1:
+    position: Machine Learning Lead
+    company: Google Developer Student Clubs
+    from: January 2022
+    to: February 2023
+    description: >
+      As the ML lead, I was responsible for teaching students about machine learning and helping them build projects. I also organized workshops and hackathons.
+  reference: https://website.rohandayaram.co.za/resume/
+
+
+# Education section
+education:
+  item3:
+    institution: Go Fourth Learning
+    program: Cybersecurity Analyst
+    description: Cybersecurity Analyst course, focusing on network security, web security, and ethical hacking.
+    from: February 2024
+    to: December 2024
+  item2:
+    institution: Durban University of Technology
+    program: Electronic Engineering
+    description: Major in Electronic Engineering. Minor in Computer programming.
+    from: February 2023
+    to: February 2024
+  item1:
+    institution: University of the Witwatersrand
+    program: Bachelor of Computer Science and Applied Mathematics
+    description: Major in Computer Science and Applied Mathematics. Minor in Information systems.
+    from: February 2022
+    to: February 2023
+
+
+  # reference: https://website.rohandayaram.co.za/resume/
+
+
+# Community section:
+community:
+  item0:
+      institution: Hack South
+      program: Community Meetup
+      description: Member of Hack South, a community of cyber security professionals, students, enthusiasts, researchers and curious minds.
+      from: January 2024
+      to: Present
+      link: https://hacksouth.africa/
+  item1:
+    institution: 0xC0FFEE JHB
+    program: Community Meetup
+    description: Monthly hacker meetup. Last Monday of the month in Johannesburg. Milk Bar, Parkmore 7pm
+    from: January 2024
+    to: Present
+    link: https://twitter.com/0xc0ffee_jhb
+  item2:
+    institution: Wits Cybersecurity Society
+    program: Leader
+    description: Leader of the Cybersecurity Society at the University of the Witwatersrand. We won the 2022 SANReN Cybersecurity Competition.
+    from: February 2022
+    to: February 2023
+    link: https://www.wits.ac.za/news/latest-news/general-news/2022/2022-12/wits-students-take-first-and-second-place-at-the-national-conference.html#:~:text=DaemonSlayers%2C%20a%20team,in%20Mathematical%20Sciences.
+#   item3:
+#     institution: Clubes de Ciencia México
+#     program: Guanajuato Comitee Member and Instructor
+#     description: Co-organizer of the intensive one-week summer science workshops of Clubes de Ciencia México in Guanajuato. Besides organizing, I have participated teaching science workshops (in particular a physics workshop, based on a Nobel Prize design, and artificial intelligence workshops) for high school and undergrad students.
+#     from: January 2015
+#     to: Present
+#     link: https://www.clubesdeciencia.mx
+#   item4:
+#     institution: Google Programs
+#     program: Google Student Ambassador and GDG
+#     description: Served as a Google Student Ambassador Latam for the University of Guanajuato, empowering the student community with Googleness and Google technologies to make their life easier. Currently helping the GDG León with tech talks and workshops about AI as a core member of the team. Do cool things that matter.
+#     from: August 2014
+#     to: July 2015
+#     link: https://www.meetup.com/es/GDGLeon/
+#   reference: https://rodolfoferro.xyz/resume/
+
+
+
+# Skills section
+tools:
+  # Consider that the following are fa icons:
+  #   https://fontawesome.com/icons?d=gallery&s=brands
+  - python
+  - markdown
+  - git-alt
+  - github
+  - docker
+  - digital-ocean
+  - google
+  - google-drive
+  - linux
+  - raspberry-pi
+  - terminal
+  - html5
+  - css3
+  - js
+extra_skills:
+  # - Facebook Messenger, Telegram, and SMS bots
+  - Web scraping and web automation
+  - APIs and web development, MongoDB
+  - Image processing and computer vision
+  - Machine learning and deep learning
+  - Several Python packages - Flask, NumPy, matplotlib, TensorFlow, etc.
+certifications:
+  item0:
+    title: Network Technician
+    link: https://www.credly.com/badges/84267750-8d8f-49f6-ab7f-592c7072b85c
+    credly: 84267750-8d8f-49f6-ab7f-592c7072b85c
+  item1:
+    title: Python Essentials
+    link: https://www.credly.com/badges/cd500875-2a18-46cb-9076-d51ef6043799
+    credly: cd500875-2a18-46cb-9076-d51ef6043799
+  item2:
+    title: Certified Entry-Level Python Programmer (PCEP)
+    link: https://verify.openedg.org/?id=oHgC.Yke3.Cuar
+    credly: 5a434a27-37f7-48e7-a2b6-af806706a5cb
+  item3:
+    title: CompTIA ITF+
+    link: https://verify.comptia.org/
+    credly: 8d88aea5-e4f0-433b-a95f-634c789e82c6
+  item4:
+    title: Javascript Essentials
+    link: https://www.credly.com/badges/e030536f-4975-4130-a2de-8904d9b6860a/public_url
+    credly: e030536f-4975-4130-a2de-8904d9b6860a
+  item5:
+    title: Certified Entry-Level JavaScript Programmer (JSE)
+    link: https://verify.openedg.org/?id=gLce.Uwer.COcg
+    credly: b8dc38b5-9c0a-417c-8850-282cc8462807
+  item6:
+    title: Digital Forensics Essentials (DFE)
+    issuer: EC-Council
+    image: static/img/ec-council.png
+    credly:
+  item7:
+    title: Ethical Hacking Essentials (EHE)
+    issuer: EC-Council
+    image: static/img/ec-council.png
+    credly:
+  item8:
+    title: Network Defense Essentials (NDE)
+    issuer: EC-Council
+    image: static/img/ec-council.png
+    credly:
+  item9:
+    title: SQL Injection Attacks
+    issuer: EC-Council
+    image: static/img/ec-council.png
+    credly:
+
+# Talks and workshops section
+workshops:
+  item0:
+    event: Google Developer Student Clubs
+    workshop: Introduction to Machine Learning
+    material:
+    link:
+  item2:
+    event: Wits Cybersecurity Society
+    workshop: Introduction to Cybersecurity
+    material:
+    link:
+  item3:
+    event: Wits Cybersecurity Society
+    workshop: Fantastic Linux Priv Escs and Where to Find Them
+    material:
+    link:
+  item4:
+    event: Wits Cybersecurity Society
+    workshop: Basic SQL Injection
+    material:
+    link:
+  item5:
+    event: Wits Cybersecurity Society
+    workshop: Introduction to Web Application Security
+    material:
+    link:
+  item6:
+    event: Wits Cybersecurity Society
+    workshop: Cross-Site Scripting (XSS)
+    material:
+    link:
+  item7:
+    event: DUT Student Developer Society
+    workshop: Introduction to Python
+    material:
+    link:
+  item8:
+    event: DUT Student Developer Society
+    workshop: Introduction to Web Development
+    material:
+    link:
+
+  # reference: https://rodolfoferro.xyz/resume/
+
+
+# Projects section
+projects:
+  item1:
+    title: Connect4 AI
+    subtitle: Connect4 AI Player with Minimax Algorithm
+    description: A Connect4 AI player built with Python and the Minimax algorithm. It can play against a human player or another AI player.
+    link:
+    github: https://github.com/rohanday3/Connect4-AI
+    img: connect4.png
+    tags: [Python, Selenium, Minimax Algorithm, AI, Connect4, Transposition Tables]
+  item2:
+    title: Fridgesense
+    subtitle: A fridge environment monitoring system
+    description: Monitors the temperature, humidity and pressure of a fridge and sends alerts when the fridge goes out of the desired range. Designed for use in a pharmacy.
+    link:
+    github: https://github.com/rohanday3/fridgesense
+    img: fridgesense.png
+    tags: [Python, Raspberry Pi, IoT, Sensors, Alerts]
+  item3:
+    title: Dischem Scraper
+    subtitle: A web scraper for Dischem
+    description: A web scraper that scrapes the Dischem website for product information and prices. The data is stored in a database.
+    link:
+    github: https://github.com/rohanday3/dischem-scrape
+    img: scraping.webp
+    tags: [Python, Web Scraping, BeautifulSoup]
+  item4:
+    title: F*** Off
+    subtitle: A simple program to censor bad words in movies
+    description: A simple program that censors bad words in movies. It uses ffmpeg, the subtitle file and a list of bad words to bleep the audio and subtitles.
+    img: foff.jpg
+    tags: [C#, .NET, ffmpeg, Subtitles, Censorship]
+    github: https://github.com/rohanday3
+  # item4:
+  #   title: Cybersecurity Blog
+  #   subtitle: A blog about cybersecurity
+  #   description: A blog where I write about cybersecurity topics, tutorials, and tools. I also write about CTFs and hackathons.
+  #   link: https://blog.rohandayaram.co.za/
+  #   github:
+
+
+# Certifications and awards section
+awards:
+  item0:
+    title: Runner-up SANReN Cybersecurity Competition
+    description: Second place in the 2022 SANReN Cybersecurity Competition. The competition was held at the International Convention Centre, CSIR in Pretoria, from 28 November to 01 December 2022.
+    link: https://www.csc.ac.za/?p=726
+  item1:
+    title: Winner of the 2023 MWR Hacktrix Cybersecurity Competition
+    description: Winner of the 2023 MWR Cybersecurity Challenge, a cybersecurity competition held by MWR Cybersec.
+    link: https://www.linkedin.com/feed/update/urn:li:activity:7040038972403658753/
+  item2:
+    title: Solved the 2023 Polymorph Challenge
+    description: Solved the 2023 Polymorph Challenge, a cybersecurity challenge hosted by Polymorph.
+    link: https://polymorph.co.za/software-developer-fun-challenge/
+  item3:
+    title: Winner of the 2022 DeQuest Hackathon
+    description: Winner of the 2022 DeQuest Hackathon, a hackathon hosted by DeQuest.
+    link:
+  item4:
+    title: Winner of the 2022 Wits Developer Society Hackathon
+    description: Winner of the 2022 Wits Developer Society Hackathon, a hackathon hosted by the Wits Developer Society where programmers compete to solve algorithmic problems in the shortest time.
+    link:
+  item5:
+    title: Runner-up of the 2022 AdaptIT Hackathon
+    description: Second place at the 2022 AdaptIT Hackathon, a hackathon hosted by AdaptIT where teams compete to build the best software solution using AngularJS.
+    link:
+  item6:
+    title: Runner-up of the 2022 RetroRabbit Hackathon
+    description: Second place at the 2022 RetroRabbit Hackathon, a hackathon hosted by RetroRabbit where teams compete to build the best software solution in a limited time.
+    link:
